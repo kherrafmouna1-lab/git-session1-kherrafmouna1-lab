@@ -2,3 +2,4 @@ Personal development notes.
 
 Learning selective staging in Git.
 Practicing Git branches and selective commits.
+Feature branch: adding a new note before merging.
