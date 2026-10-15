@@ -1,3 +1,4 @@
 Personal development notes.
 
 Learning selective staging in Git.
+Practicing Git branches and selective commits.
